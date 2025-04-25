@@ -1,2 +1,0 @@
-API_TOKEN = 'API TOKEN'
-DB_NAME = 'quiz.db'
